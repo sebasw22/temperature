@@ -1,5 +1,5 @@
 com/smartHome/temperature/data/temperatureRepository.class
 com/smartHome/temperature/domain/Temperature.class
 com/smartHome/temperature/TemperatureApplication.class
-com/smartHome/temperature/DevelopmentConfig.class
 com/smartHome/temperature/controller/TemperatureController.class
+com/smartHome/temperature/DevelopmentConfig.class

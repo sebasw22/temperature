@@ -1,13 +1,11 @@
 package com.smartHome.temperature;
 
-
 import com.smartHome.temperature.data.temperatureRepository;
 import com.smartHome.temperature.domain.Temperature;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
 
 @Configuration
 public class DevelopmentConfig implements CommandLineRunner {

@@ -22,8 +22,4 @@ public class TemperatureController {
         //return temperatureRepo.findById(Long(3));
     }
 
-
-
-
-
 }

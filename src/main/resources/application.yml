@@ -1,0 +1,6 @@
+iot:
+  mqtt:
+    clientId: client-1
+    defaultTopic: temperaturaSeba
+    serverClientId: server-1
+    servers: tcp://broker.emqx.io
